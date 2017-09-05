@@ -1,3 +1,3 @@
 <?php
-    echo 'プルリク!';
+    echo 'Hello PR';
 ?>
